@@ -3,11 +3,13 @@
 
 ---
 
-23 year old plural programmer. Primarily working on personal projects, but willing to take comissions.
+24 year old plural programmer. Primarily working on personal projects, but willing to take comissions or discuss long-term employment.
 
-We primarily work in JavaScript (in-browser)/CSS/HTML & are fairly versed in Python/C++/Java/Lua. Open to learning new languages.
+We primarily work in JavaScript/CSS/HTML, including frameworks like React or Gatsby.
 
-Can be contacted at wynter.blizzards@gmail.com, on Discord as WynterSt0rm#7530, or through [our programming server](https://discord.gg/2yJEt8vx7m).
+We are also fairly versed in Python/C++/Java/Lua, and are open to learning new languages.
+
+Contacting us at wynter.blizzards@gmail.com is preferred, but we can be reached for non-business inquiries through Discord via DMs (WynterSt0rm#7530) or via [our Discord server](https://discord.gg/mTArZvRqu9).
 
 ---
-### Support me on [Ko-Fi](https://ko-fi.com/wynterst0rm).
+### Support us on [Ko-Fi](https://ko-fi.com/wynterst0rm).
